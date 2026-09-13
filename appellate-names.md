@@ -921,6 +921,58 @@ coined name in this file.
 - *Board certified in criminal law and criminal appellate law — a pair fewer than
   fifty lawyers in Texas hold.*
 
+## Visionary and Vision
+
+### Visionary — the one word in this document with real rules exposure
+
+**It is a self-awarded honorific.** *Visionary* is a thing other people call you.
+Applied to yourself it does not transmit vision; it transmits the wish to be seen
+as having it, and a reader discounts it accordingly.
+
+**It is the clearest quality-claim in the exercise.** Under the current Rule 7.01
+standard, a statement is misleading where there is a substantial likelihood it
+will lead a reasonable person to form a specific conclusion about the lawyer or
+the lawyer's services for which there is no reasonable factual foundation.
+*Visionary* is exactly that kind of conclusion, and unlike board certification it
+is not verifiable by anyone. Every other risky name in this file — Labs,
+Institute, Foundry — implies a *kind* of practice. Visionary implies a *ranking*
+of the lawyer. That is a different and worse category.
+
+**And its best-known technical meaning is the opposite of a compliment.** In
+Gartner's Magic Quadrant, **Visionaries** occupy the lower right: vendors with a
+clear view of where the market is heading, innovative, *but lacking demonstration
+of those ideas today*. Leaders are upper right. In the most widely read
+commercial use of the word, "Visionary" means **has ideas, cannot execute** —
+which is precisely the inference you least want a referring lawyer to draw.
+
+### Vision — weaker, not risky
+
+It is the optics family (observatory, parallax, aperture, first light) with the
+specificity removed. Commercially it belongs to optometry and eyewear, and
+rhetorically to mission-statement boilerplate — "our vision" is the least-read
+page on any firm's website. And it carries no legal second meaning, which every
+survivor on this shortlist does.
+
+### What to keep from the instinct
+
+Seeing what others do not yet see **is** the claim. The defect is that the word
+claims the honor instead of demonstrating it — and the demonstration already
+exists: winning on eight different legal issues in nine recent Court of Criminal
+Appeals cases, and board certification in both Criminal Law and Criminal
+Appellate Law, a pairing fewer than fifty Texas criminal-defense lawyers hold.
+
+**Never claim what you can prove.** In bar-regulated advertising this is not only
+better rhetoric, it is better compliance: a verifiable fact has a reasonable
+factual foundation by construction, and an adjective does not.
+
+It is also the wrong tone for the audience. Someone facing prison is looking for
+calm competence, not prophecy.
+
+Which is an argument for the name already chosen: **Unsettled** describes the
+condition of the law rather than the qualities of the lawyer. It is the exact
+anti-*Visionary* — it claims nothing about you at all, and lets the CCA record do
+the claiming.
+
 ## Pick
 
 **`unsettled.law`** for the practice, **`subsilentio.com`** for the theory — see
