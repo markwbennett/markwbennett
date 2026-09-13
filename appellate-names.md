@@ -852,6 +852,75 @@ status, no implied group, no implied laboratory. Safer than most of this
 document. Still confirm with the Advertising Review Department before filing
 anything.
 
+## This is for an existing firm — which changes the problem
+
+Everything above assumed a name for a new practice. It is not. It is for
+**bennettandbennett.com**: Bennett & Bennett, Houston, Mark and Jennifer Bennett,
+practicing together since 1997, Mark board certified by the Texas Board of Legal
+Specialization in **both** Criminal Law and Criminal Appellate Law — a pairing
+fewer than fifty criminal-defense lawyers in Texas hold. (Those details are from
+the firm's own site, read in this session, not from memory.)
+
+Four things change.
+
+### 1. Do not rename
+
+An eponymous domain that has carried a practice for decades is an asset you
+cannot rebuy. Referring lawyers do not remember brands, they remember **Mark
+Bennett**, and every link, citation, directory listing and search result points at
+the existing name. Replacing it with an abstract mark means building reputation a
+second time, from zero, to say something the existing name already says
+truthfully.
+
+### 2. The phone test stops mattering — which reverses the ranking
+
+`unsettled.law` won the last round largely because a client could spell it after
+hearing it once. Nobody has to spell a sub-brand: they call the number on
+bennettandbennett.com. That makes the erudite options affordable again, because
+they are section and publication names rather than the thing on the door.
+
+### 3. The rules risk mostly evaporates
+
+The trade-name problems catalogued throughout this document — Institute implying
+a nonprofit, Labs implying a forensic laboratory, a name implying a group or
+promising relief — bite hardest when the invented name **is** the firm name. Under
+an eponymous firm with the lawyers plainly identified, a descriptive practice
+name is a far smaller question. Still worth the call to Advertising Review; no
+longer the binding constraint.
+
+### 4. What is actually needed is a line, not a name
+
+The naming exercise has been a proxy for the real gap: bennettandbennett.com does
+not yet say, in one sentence, the thing stated here plainly —
+
+> the raw intelligence and curiosity that discovers the arguments other lawyers
+> have missed the best arguments on for fifty years.
+
+That sentence, and the proof already on the site (the firm's own page reports
+winning on eight different legal issues in nine recent Court of Criminal Appeals
+cases — worth re-verifying before it goes in a headline), is stronger than any
+coined name in this file.
+
+### The recommended architecture
+
+- **Firm:** Bennett & Bennett. Unchanged.
+- **Appellate and writ practice:** **Unsettled**, at
+  `bennettandbennett.com/unsettled`. Keeps the domain authority, keeps the
+  eponym, and supplies what an eponym never can — what is different about the
+  work.
+- **Domain, if wanted:** buy `unsettled.law` and redirect it to that page. Do not
+  run it as a separate site; two sites means building two reputations.
+- **The writing:** **Quaere** — the skeptical reader's marginal note flagging a
+  point as doubtful. The spelling cost is near zero for a publication, since
+  readers click links rather than typing titles.
+
+### Headline drafts, since that is the real deliverable
+
+- *The State's brief says it is well settled. That sentence is where we start.*
+- *We find the argument that has been sitting in these cases for fifty years.*
+- *Board certified in criminal law and criminal appellate law — a pair fewer than
+  fifty lawyers in Texas hold.*
+
 ## Pick
 
 **`unsettled.law`** for the practice, **`subsilentio.com`** for the theory — see
