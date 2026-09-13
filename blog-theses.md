@@ -1,148 +1,163 @@
-# Ten theses — blog posts for a lawyer audience, educational voice
+# Theses from *Making Law: Solving Old Problems*
 
-Rewritten against *Making Law: Solving Old Problems* (Institute for Advanced
-Criminal Law Studies, Aug. 3, 2026). The paper already contains the series; these
-are the posts it breaks into, ordered so the method comes before the examples.
-Citations below are **from the paper**, not independently verified here.
+Revised. My first pass pulled the paper's **doctrinal examples** and treated them
+as the theses. They are the illustrations. The arguable claims — the ones a reader
+could disagree with, and that do not depend on caring about penalty groups — were
+mostly in Sections I, II.3 and 6, and I had buried them.
+
+Citations and quotations are from the paper.
 
 ---
 
-## 1. Opinion laundering: one root case and forty-two descendants
+## The ten
 
-**Thesis:** A harmful proposition enters the reports in a single early case, the
-next generation cites it, and by the fourth generation forty-two cases appear to
-stand for it with dense cross-support — though the question was analyzed once, if
-at all.
+### 1. Nobody knows what they're doing, and that is permission
 
-Your own definition, and the flagship. The specimen is already in the paper's
-footnote 8: *Hankins* gave three reasons for abolishing the reasonable-hypothesis
-instruction, and all three came from *Holland* — "cite Holland, then pretend that
-its arguments are your own." A post that shows laundering happening inside a
-single footnote is worth more than a post that describes it abstractly.
+**Thesis:** The appellate courts, the prosecutors, the defense bar — nobody has
+ever known what they were doing, so everything that came before is subject to
+challenge.
 
-## 2. What "settled" actually means
+The paper's actual opening claim and the license for everything after it: "I sure
+don't know what I'm doing; I treat that admission as permission." Provocative,
+true, and it reframes ignorance as standing to challenge rather than a reason to
+defer. Nothing else here works if a reader rejects this.
+
+### 2. The argument that has not been made is not wrong, because it has not been made
+
+**Thesis:** Absence of precedent is not adverse precedent — and "the absence of a
+published opinion rejecting the argument is evidence that nobody has made it, but
+not that it has been considered and properly rejected."
+
+A claim about how to read silence in the reports, and the single most portable
+idea in the paper. Every lawyer has abandoned an argument on the reasoning this
+demolishes. Pairs with the diagnosis that good lawyers are *insufficiently
+arrogant* — they assume someone else had the idea and had reasons to drop it.
+
+### 3. Opinion laundering: one root case, forty-two descendants
+
+**Thesis:** A proposition analyzed once, if at all, acquires the appearance of
+dense support through generations of interlocking citations back to a root case
+that may have held something narrower, or answered a different question.
+
+Lead with the specimen in footnote 8 rather than the abstraction: *Hankins* gave
+three reasons for abolishing the reasonable-hypothesis instruction and all three
+came from *Holland* — "cite Holland, then pretend that its arguments are your
+own." Laundering caught inside a single footnote.
+
+### 4. "Settled" has four conditions, and they are usually unmet
 
 **Thesis:** Texas criminal law is settled only when the Court of Criminal Appeals
-has rejected *your specific argument*, on facts like yours, after full briefing —
-and those conditions are usually unmet.
+has rejected *this specific argument*, on facts like these, after full briefing on
+the point.
 
-The load-bearing post. An unpublished opinion is not binding; a published opinion
-binds only its district; and an otherwise-binding opinion that never addressed
-your argument is not binding against that argument. Teaches readers to run the
-four-part test before conceding anything.
+Unpublished opinions do not bind; published opinions bind one district; and a
+binding opinion that never addressed your argument is not binding against it.
+A checklist readers can run before conceding anything.
 
-## 3. The archaeology: tracing a proposition to its root
+### 5. The archaeology: trace the proposition to its root
 
-**Thesis:** Reversing opinion laundering is a procedure, not a talent — trace the
-proposition back to the root case, read what the root actually said, then ask
-whether it doesn't apply here, was wrong then, or is wrong now.
+**Thesis:** Reversing opinion laundering is a procedure, not a talent — find the
+root case, read what it actually said, then ask whether it doesn't apply here, was
+wrong then, or is wrong now.
 
-The method post, and the one readers can use immediately. Your three questions at
-the root are the whole apparatus. Name the failure mode too: a case gets cited for
-what it is assumed to say, the next lawyer finds the citing case and assumes the
-same, and nobody returns to the source.
+Use *Aguirre* as the worked example: every court of appeals treats §19.02(b)(1)
+and (b)(2) as alternative means on its authority, when what *Aguirre* decided was
+a general-verdict question and the unanimity question "was not before the court."
+Separate the three frames readers conflate — conjunctive/disjunctive pleading,
+general verdict, unanimity.
 
-## 4. Why the best lawyers missed it
+### 6. An iterative strategy survives — and exploits — losses
 
-**Thesis:** Good lawyers are insufficiently arrogant. They assume someone else had
-the idea and had a reason to reject it — so the absence of a published opinion
-rejecting an argument gets read as proof the argument is bad, when it is evidence
-nobody has made it.
+**Thesis:** A loss can be the instrument. *Barton* and *Sanders* forced the Court
+of Criminal Appeals to overturn the statute or take an untenable position; it took
+the untenable one; *Counterman* removed its premise; *Owens* contradicted it on
+the page; *Earl* is the cert vehicle the losses built.
 
-The most quotable thesis in the paper: the best lawyers "are practicing the same
-cookie-cutter law as everyone else. They have just made the cookies more
-carefully." Educational because it diagnoses a habit of mind rather than a doctrine.
+**My worst omission first time through, and probably the best thesis in the
+paper.** Nobody writes this down: how to lose a PDR usefully, and why the lawyer
+who stopped at *Barton* loses while the lawyer who keeps going might win. The
+twelve-year timeline from the start of the 42.07 litigation to *Owens* is the
+honest part — it tells readers what this actually costs.
 
-## 5. Manner-or-means versus elements: one confusion, three doctrines
+### 7. The 1791–1876 gap
 
-**Thesis:** Texas courts systematically treat distinct statutory elements as
-interchangeable manner-or-means, which lets the State plead them in one paragraph
-and escape the consequences of element treatment — unanimity chief among them.
+**Thesis:** Federal due process froze in 1791; Texas due course of law was adopted
+in 1876 — so every common-law protection that crystallized in between was
+incorporated into the Texas Constitution and never into the federal one.
 
-The master insight, and it earns a post of its own before the applications. Set up
-*Schad* and explain why *Apprendi* moved the means/element line to the facts that
-increase the punishment range. Everything in posts 6, 7 and the §43.04 material
-descends from this.
+This is footnote 6, generalized, and it deserves the main text. *Hodge's Case* is
+1838: after the Fifth Amendment, before article I, section 19. The footnote proves
+it for the reasonable-hypothesis instruction; the thesis is that the same
+eighty-five-year window contains everything else the nineteenth-century common law
+worked out. It converts a one-off argument into a research program.
 
-## 6. *Aguirre* doesn't hold what the courts say it holds
+### 8. *Heitman* handed the bar a revolution in 1991 and the bar declined it
 
-**Thesis:** Every Texas court of appeals treats §19.02(b)(1) and (b)(2) as
-alternative means, citing *Aguirre* — which decided a general-verdict question
-that was not the unanimity question at all.
+**Thesis:** Thirty-plus years of Texas constitutional independence have gone
+largely unused because defense lawyers cited the provision without argument,
+analysis, or authority — "Lawyers had walked up to the open door, shrugged their
+shoulders in bafflement, and turned around."
 
-The case study that makes laundering concrete: the "same offense" language pulled
-out of its general-verdict context to answer a question the court never reached.
-Worth separating the three frames readers conflate — conjunctive/disjunctive
-pleading, general verdict, and unanimity.
+An indictment of the bar that doubles as an invitation, and the best possible
+setup for the research-methodology post (pre-1900 opinions via `DA(bef 1900)`,
+founding-era treatises, English and early American cases).
 
-## 7. The jury charge that doesn't track the statute
+### 9. A conservative Court of Criminal Appeals is a defense asset
 
-**Thesis:** "Knowingly" reaches the penalty-group classification, the pattern
-charge omits it, and every controlled-substance charge for fifty years is probably
-wrong.
+**Thesis:** "Most appellate lawyers see a CCA composed of political conservatives
+and conclude they cannot win. That is backward." Scalia's originalism produced
+Crawford, Apprendi, Blakely and Booker; originalism applied to the Texas
+Constitution of 1876 produces these arguments.
 
-*Flores-Figueroa* and *McFadden* on the grammar; *White* and *Blackman* as the
-court's own dicta; the omission of a contested element from the application
-paragraph as egregious harm. The most immediately usable post in the series for
-trial lawyers, because the defect is in a charge they will see next month.
+Counterintuitive, checkable, and immediately actionable — it changes who a reader
+writes their brief for. Carry Yeary's *Navarro* line: "less stare decisis and more
+recte decide."
 
-## 8. Due course of law: the 1876 Constitution adopted the common law
+### 10. A court cannot repeal a statute by calling it obsolete
 
-**Thesis:** Texas chose "due course of law" over "due process" deliberately in
-1876, adopting the actual common law of criminal procedure — so wherever current
-Texas procedure has diverged from that common law, it is unconstitutional under
-the Texas Constitution.
+**Thesis:** The Court of Criminal Appeals called article 15.22's binary definition
+of arrest "legislatively obsolete" in *Sheppard*; that is faithless to the
+Legislature's language. "The statute is dormant: its words still bind, waiting for
+a court to apply them."
 
-Pair the argument with the research methodology, which is what makes it a teaching
-post rather than a manifesto: pre-1900 Texas opinions via Westlaw's `DA(bef 1900)`,
-founding-era treatises (Starkie, Greenleaf, Bishop, Wharton) through HeinOnline,
-and English and early American cases. Readers can replicate the method on their own
-issue.
-
-## 9. *Terry v. Ohio* does not belong in Texas constitutional law
-
-**Thesis:** The common law recognized no category between consensual encounter and
-arrest — you were arrested or you were free to go — so the sub-arrest detention
-Texas imported from federal law in *Milton* has no Texas constitutional pedigree.
-
-The strongest single example for a lawyer audience, because everyone litigates
-detentions. Blackstone, Archbold, Dalton and Burn on the unbroken definition; the
-etymology (you cannot hold what you have not stopped); article 15.22's binary
-definition called "legislatively obsolete" in *Sheppard*; and *Heitman* as the
-reason the question is open.
-
-## 10. You do not have to be right. You have to be on the record.
-
-**Thesis:** Preservation is the whole game for arguments nobody has made yet — an
-imperfect Texas Constitution objection that appellate counsel cannot develop still
-beats no objection, because without it the argument does not exist on appeal.
-
-The Swiss Army knife post: name the Texas Constitution, name the provision,
-articulate the distinction from the federal analog, say it provides independent
-protection (*Pena*). Closes the series by handing trial lawyers the one thing only
-they can do.
+Small, sharp, and portable well beyond article 15.22 — a general principle about
+judicial power over statutory text, with an immediate application in every
+suppression hearing.
 
 ---
 
-**Bonus:** *Write for textualist and originalist judges.* The thesis that the
-Scalia-Thomas type of judge has been a boon for criminal defendants — Crawford,
-Apprendi, Blakely, Booker — and that most appellate lawyers read a conservative
-CCA backward. Yeary's "less stare decisis and more recte decide" from *Navarro*
-is the banner line.
+## The application posts
+
+These are the paper's examples. They are excellent posts; they are demonstrations
+of the theses above rather than theses themselves.
+
+- **Manner-or-means versus elements** — one confusion, three consequences
+  (*Williams*, *Solis*, *Johnson*); *Schad* met by *Apprendi*.
+- **The jury charge that doesn't track the statute** — "knowingly" reaches the
+  penalty-group classification; *Flores-Figueroa*, *McFadden*, *White*,
+  *Blackman*; omission of a contested element as egregious harm.
+- **Terry v. Ohio does not belong in Texas constitutional law** — the common-law
+  binary, Blackstone through Burn, and the etymology: you cannot hold what you
+  have not stopped.
+- **Criminal trespass: without the effective consent of whom?** — the small case
+  that proves the large point.
+- **You do not have to be right. You have to be on the record.** — due course of
+  law as a Swiss Army knife; name the constitution, name the provision, articulate
+  the distinction (*Pena*).
+- **Vehicle selection** — facts that present the issue squarely, error preserved,
+  court of appeals addressed it. Then file the PDR.
 
 ---
 
-## Note on an earlier draft
+## What dropped, and why
 
-An earlier version of this file carried a thesis that statutory-construction
-precedent is harder to dislodge than judge-made precedent. The doctrine behind it
-is real but I stated it without its rationale and against the wrong comparison:
-the strong form is stated against **constitutional** precedent (*Kimble v. Marvel*,
-576 U.S. 446 (2015) — enhanced force because critics can take objections to the
-legislature). The manifesto's framework is a better version of the same move: the
-lever is not the statutory/judge-made distinction but *Heitman*, the due-course-of-law
-incorporation, and a court with judges willing to overrule text-contradicting
-precedent. One small addition that survives: *Boykin v. State*, 818 S.W.2d 782
-(Tex. Crim. App. 1991) dates the CCA's methodological shift, so a pre-*Boykin*
-construction resting on legislative history was produced under a method the court
-has since abandoned — a laundered rule whose root is methodologically dead.
+- *Why the best lawyers missed it* — folded into thesis 2, where the insufficient-
+  arrogance diagnosis is the second half of a stronger claim.
+- *A PDR is an institutional argument* — replaced by the paper's own three-part
+  vehicle test, which is concrete where mine was atmospheric.
+- *Statutory versus judge-made precedent* — stated against the wrong comparison
+  (the strong form runs against **constitutional** precedent; *Kimble v. Marvel*,
+  576 U.S. 446 (2015)). One piece survives: *Boykin v. State*, 818 S.W.2d 782
+  (Tex. Crim. App. 1991) dates the CCA's methodological shift, so a pre-*Boykin*
+  construction resting on legislative history is a laundered rule whose root is
+  methodologically dead.
