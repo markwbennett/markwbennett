@@ -594,11 +594,15 @@ company (PowerVR GPUs), founded 1985.
 still in print in a 45th-anniversary edition. In the corner of the profession
 most likely to appreciate the name, the phrase is his.
 
-**It hands the State a free line.** In judicial usage, *imaginative* and
-*creative* are frequently pejoratives — the adjective a court reaches for just
-before rejecting an argument. For a criminal appellate practice whose entire
-asset is credibility about what the record says, a name flirting with *made up*
-is a gift to the other side.
+**It may hand the State a free line.** My impression is that in judicial usage,
+*imaginative* and *creative* often arrive just before an argument is rejected —
+but I could not verify that from this session, and it should be treated as an
+impression rather than an established fact. It is testable in a minute on
+Westlaw: run "however creative" or "creative reading" in Tex. Crim. App. and
+Texas court of appeals opinions and see which way the usage runs. If it runs the
+way I think it does, then for a practice whose entire asset is credibility about
+what the record says, a name flirting with *made up* is a gift to the other
+side.
 
 ### Inventio
 
@@ -631,6 +635,41 @@ arguments are found.
 Caveats: Topica Edtech Group (Vietnam) is active and `topica.com` is likely long
 gone; *locus* and *topic* are ordinary English words carrying ordinary meanings.
 `topica.law` is unscreened and worth a look.
+
+## Creativity and Creation
+
+Both are cousins of *imagination* and inherit its defects. Each adds one of its
+own.
+
+**Creativity** adds crowding — it is the single most worked word in agency and
+consultancy naming — and it is the sharpest form of the judicial-usage worry
+above (which, again, is my impression and worth ten seconds in a database before
+you rely on it).
+
+**Creation** adds two things. First, the domain and the association are gone:
+`creation.com` belongs to **Creation Ministries International**, a young-earth
+creationist ministry operating since 1977 with branches in seven countries. The
+word's largest occupant on the internet is a religious-apologetics organization.
+
+Second, and more important, *creation* is the manufacture register wearing
+intellectual clothes — making something from nothing. That is exactly the
+distinction *inventio* exists to draw, and in law the distinction is not
+decorative. An argument you **created** is suspect; an argument you **found** in
+the record is sound. That difference is the whole line between a brief that wins
+and a brief that draws a sanction.
+
+### The pattern across imagination, creativity, and creation
+
+All three name the lawyer's mental flair — and flair is the thing an opponent
+attacks, because it invites the reply that the argument came from you rather than
+from the record. The candidates that have survived every screen in this document
+name something else:
+
+- the **result**: `firstimpression.law`, `groundsforreview.com`,
+  `questionpresented.com`
+- the **method**: `inventio.law`, `assay.law`
+
+Name the finding, not the flair.
 
 ## Pick
 
