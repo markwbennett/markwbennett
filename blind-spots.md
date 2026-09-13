@@ -31,6 +31,33 @@ Consequences:
 This is the root-case problem applied to the manifesto's own root. Do the
 archaeology on yourself before the State does.
 
+**Refinement, after pushback:** readoption in 1876 is the right frame, and it
+rescues *Hodge's Case* — "the window closes" overstated it; the window closes
+only if the court fixes the date at 1836, and readoption supplies a principled
+basis for 1876. But Texas's readoption canon is specifically about **judicial
+construction**: where a provision that has received a settled judicial
+construction is adopted in the same words by a later constitution, the
+construction is presumed adopted too (applied to art. I, §10 confrontation, same
+words since 1836 — *Robertson v. State* `[verify]`). That is a tool for both
+sides. The decisive research question is therefore narrow: **what construction had
+"due course of the law of the land" received in Texas cases between 1836 and
+1876?** If those courts applied common-law procedure under it, the canon carries
+that forward. If they read it as a generic law-of-the-land guarantee, the State
+gets the canon.
+
+**And a statutory hook that may be better than the constitutional one:** Tex.
+Code Crim. Proc. art. 1.27, "Common Law Governs" — "If this Code fails to provide
+a rule of procedure in any particular state of case which may arise, the rules of
+the common law shall be applied and govern." Current law. It requires no proof of
+a constitutional freeze; the Legislature itself directs that common-law procedure
+governs the gaps. Limits: gap-filling only (it yields to codified procedure), and
+amendable. But for questions the Code does not address it is a direct textual
+argument. The *Terry* argument, for instance, becomes purely statutory: art. 15.22
+defines arrest as binary, the Code is silent on any sub-arrest detention, art. 1.27
+sends that silence to the common law, and the common law had no such category.
+The one open question is *which* common law art. 1.27 incorporates — as of the
+Code's adoption, or as it evolves — and that question is worth a post of its own.
+
 ### 2. *Hankins* and *Geesa* are two abolitions, and Section 5 runs them together
 
 *Hankins* (1983) abolished the **jury instruction**. *Geesa v. State*, 820 S.W.2d
