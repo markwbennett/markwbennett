@@ -397,6 +397,62 @@ around its accelerator, but no company surfaced), `secondstage` (a PDR is
 literally the second stage — the first drops away once it has done its work),
 `upstream`.
 
+## Mythological names, and Hephaestus in particular
+
+### The general problem
+
+A myth name puts an entire story in your name, and you do not get to choose which
+part of it your reader knows. Plain-language names — `assay.law`,
+`questionpresented.com` — carry no narrative you have to defend. Myth names come
+with a plot, and someone adverse to you has read it too.
+
+### Hephaestus: three objections
+
+**1. It cannot survive a phone call.** Spelling and pronunciation are the whole
+practical test for a referral practice: someone hears the name spoken, and has to
+type it. *Hephaestus* fails both halves — two live pronunciations, an unguessable
+vowel cluster, and nine letters most people cannot spell from hearing. That alone
+disqualifies it as a domain, whatever else is true.
+
+**2. Wrong family again.** Hephaestus is the forge and the smithy in another
+costume: the maker's register, which promises *well-made*, not *found what others
+missed*. Everything in the foundry/forge/smithy section applies unchanged. The
+one genuine upgrade is that Hephaestus makes singular impossible objects — the
+shield of Achilles, self-moving automata — rather than production work, which
+edges him toward invention. Not enough to carry it.
+
+**3. The myth cuts against you.** In Aeschylus's *Prometheus Bound*, the opening
+scene is Hephaestus chaining Prometheus to the rock at Zeus's command, escorted
+by Kratos (Force) and Bia (Violence). He does it reluctantly — "I do not have the
+nerve myself to bind with force a kindred god" — and then he does it anyway:
+rivets the arms beyond release, drives a wedge through the heart, shackles the
+legs. In the canonical text, the god of the forge is **the state's blacksmith,
+carrying out a punishment he privately disagrees with.** For a criminal-defense
+practice that is precisely inverted iconography, and it is the kind of thing an
+educated adversary would enjoy pointing out.
+
+Crowded, too: Hephaestus Analytical (art authentication, London), Hephaestus
+Technologies (London, Cleveland, Singapore), Hephaestus Consulting (armour and
+ballistics), Hephaestus.LLC (Portland). No law firm found, but the word is
+working hard elsewhere.
+
+What is genuinely good about it, for the record: Hephaestus is the outsider
+Olympian — thrown out of heaven, lame, mocked, and the only god who actually
+makes anything. There is a real solo-practitioner mythos in that. It is not
+enough to outweigh a name clients cannot spell attached to a story about
+shackling a prisoner.
+
+### Daedalus, the better myth — and why it still fails
+
+Daedalus is the inventor who engineers an escape from an inescapable prison: the
+wings out of Crete. For an appellate practice that is close to perfect.
+
+Two problems. **`daedalus.law` is taken** — Daedalus Law PLLC, a New York
+contracts boutique — along with Daedalus Technology Group and daed.com. And the
+myth has its own defect: Daedalus **built the labyrinth** for Minos before he
+escaped it, and the client he flew out with, his own son, died on the way. Not a
+story you want the other side retelling.
+
 ## Pick
 
 For the practice as now described — appeals, writs, and PDRs, sold on new law and
