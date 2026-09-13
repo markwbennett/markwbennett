@@ -511,6 +511,73 @@ the instrumentation and drops the commodity connotation.
 who stay through the dark season. Evocative of exactly the right virtue,
 probably too obscure to explain twice a week.)
 
+## Institute, Studies, Study Group
+
+All three are the scholarly register — which is where the instinct keeps
+returning (the seed example was `libertyresearch`). Two of them carry a status
+problem; the third carries a different one.
+
+### Research institute — no, and the reason is status, not taste
+
+In American law, **Institute / Center / Project is the register of the donor-funded
+nonprofit.** That is not a vague association, it is the specific naming convention
+of the organizations that do exactly the work you describe:
+
+- The **Institute for Justice** is a nonprofit public-interest law firm, founded
+  1991, funded entirely by contributions and grants with no government money.
+- The **Roderick & Solange MacArthur Justice Center** is a national nonprofit law
+  firm whose Supreme Court & Appellate Program litigates criminal procedure,
+  sentencing, habeas, and wrongful convictions in the U.S. Supreme Court, the
+  federal courts of appeals, and state supreme courts.
+- The **Innocence Project** and its regional affiliates work the same territory.
+
+So the closest institutional analogues to "criminal appellate practice that makes
+new law" are all nonprofits, and they all use this register. A private practice
+wearing it borrows their credibility and inherits their inbox: requests for free
+representation, questions about donating, and confusion about whether you charge
+at all.
+
+That shades into a rules problem rather than a marketing one. The naming
+restrictions exist to keep the public from being deceived about the *identity,
+responsibility, or status* of the people behind the name, and "is this a
+fee-charging law practice or a charity?" is a status question. Note also that a
+State Bar of Texas ethics committee page takes the position that a firm name
+claiming or implying a quality beyond the fact that the firm renders legal
+services is an impermissible trade name — that reflects the pre-2021 regime, when
+trade names were barred outright, and today's test is the narrower "not false or
+misleading." Which is precisely why this one is worth a call to the Advertising
+Review Department rather than a judgment call from a naming document.
+
+### Studies — worse
+
+"X Studies" is a university department (Legal Studies, American Studies). It puts
+the maximum possible distance between the name and the act of standing up in
+court on behalf of a person. Every objection to *research* applies, doubled: it
+names the reading, not the representing.
+
+### Study group — the interesting failure
+
+This is the only one of the three that deflates status rather than inflating it,
+and its instinct is right: a study group is small, collegial, and exists to chew
+on hard material until someone sees the thing. That is an honest description of
+how a missed argument actually gets found.
+
+Three problems. It sounds like law students rather than counsel. It announces a
+**group**, which is its own naming trap if the practice is one lawyer — misleading
+as to the number of lawyers is a classic prohibited implication. And nobody knows
+how to hire a study group.
+
+### What the pattern is actually asking for
+
+Six rounds of suffixes — maker, discovery, launch, myth, station, institute — is
+a signal. What you want the name to say is *this is a place where hard legal
+thinking happens*, not *this is a lawyer who will take your case*. The scholarly
+container cannot deliver that without claiming a status you do not have.
+
+The root words can. `assay.law`, `questionpresented.com`, and
+`firstimpression.law` all read as the work of a serious thinker, and none of them
+claims to be a university, a charity, or a group.
+
 ## Pick
 
 For the practice as now described — appeals, writs, and PDRs, sold on new law and
