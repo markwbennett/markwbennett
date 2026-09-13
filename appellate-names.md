@@ -282,6 +282,73 @@ firm), *mill* (implies churn), *press* (reads as a publisher), *bench* (the benc
 is the judiciary), *chambers* (Chambers & Partners owns it in legal), *institute*
 (implies academic or nonprofit).
 
+## The exploration lexicon
+
+Exploration is the right register for the positioning: it describes finding
+rather than making. One structural caution before the list — unlike *first
+impression* or *grounds for review*, none of these words says **law**. They
+describe how you work, not what you practice, so each needs the `.law` TLD or a
+legal compound to land.
+
+### Survey and measurement — the record as terrain
+
+**assay.law — the best of the set.** To assay is to test ore to find out what it
+is actually worth. That is the appellate intake in one word: someone hands you a
+record everyone else has written off, and you find out what is really in it. It
+is scientific without implying a forensic lab, artisanal without being quaint,
+and short.
+
+Screen: clear. Searches return only legal-dictionary definitions of the word
+(assay appears in the standard law dictionaries in its metallurgical sense) and
+no company, in law or out of it. No tech collision either.
+
+**soundings** — taking soundings is measuring the depth of uncharted water, and
+in law a claim "sounds in" contract or tort. Genuine double meaning. Partly
+spoken for: *Legal Soundings* is a Harbor Global podcast, and a UK consultancy
+used the name. Better as a compound.
+
+Unscreened, same family: `transect`, `deadreckoning` (avoid — "dead" in a
+criminal practice), `waypoint`, `azimuth`, `landfall`, `headwaters`, `portage`.
+
+### Mapping and the unknown
+
+**terraincognita.law** — the blank space a mapmaker leaves where knowledge runs
+out, which is precisely a case of first impression. No law firm uses it. Several
+businesses do (Terra Incognita Capital, Consulting, Partners, Services), and
+there is at least one trademark filing on the phrase. Long to type, and that
+matters for a domain.
+
+Unscreened: `hinterland`, `uncharted` (note Uncharted Territory LLC, a film
+company, and the game franchise), `cartograph`, `blankspace`.
+
+### Prospecting
+
+`lode`, `vein`, `seam`, `strata`, `prospect` — all unscreened. *Seam* is the best
+of them (a seam in the doctrine is exactly what you exploit) and it doubles as a
+tailoring word, which keeps the artisanal thread. Avoid *prospect*: in business
+usage a prospect is a sales lead.
+
+### Optics — seeing what others cannot
+
+`observatory.law` (from the section above), plus unscreened `aperture`,
+`firstlight` (first light is an observatory's first image through a new
+telescope — it pairs beautifully with *first impression*), `occultation`.
+
+### Killed, with reasons
+
+- **parallax** — the best metaphor in the whole exploration set (the same object
+  seen from a second position yields new information: exactly "arguments others
+  have missed"), and it is thoroughly occupied in law. Parallax Law PLLC
+  (Albany), Parallax Legal (Australia), Parallax Legal Syndicate (UK), Legal
+  Parallax LLC, Parallax Paralegal (Ontario). Five.
+- **lodestar** — in law, the *lodestar method* is how courts calculate attorney's
+  fees. Naming the practice Lodestar names it after billing math.
+- **trailhead** — Salesforce's learning platform. Owned.
+- **marginalia** — lovely (the argument written in the margin nobody read), but
+  Marginalia Search (marginalia.nu) is a well-known indie search engine whose
+  stated purpose is surfacing overlooked pages. The metaphor is taken by someone
+  already doing the analogous job.
+
 ## Pick
 
 For the practice as now described — appeals, writs, and PDRs, sold on new law and
