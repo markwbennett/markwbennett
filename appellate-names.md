@@ -453,6 +453,64 @@ myth has its own defect: Daedalus **built the labyrinth** for Minos before he
 escaped it, and the client he flew out with, his own son, died on the way. Not a
 story you want the other side retelling.
 
+## Research station
+
+The best *concept* of any place-noun proposed so far, and the wrong half of the
+compound to keep.
+
+### Why the concept is right
+
+A research station is remote, small-staffed, instrumented, and patient. Work
+there is measured in seasons: you sit in one place, watch carefully, and produce
+findings. That fixes the exact defect in the launch register — rocketry sells
+thrust, and appellate work sells patience — while staying in the discovery family
+rather than the manufacture family. It also gets the scale right: a station is
+deliberately small and deliberately far from the main institutions, which is a
+boutique practice described without adjectives.
+
+It is uncrowded, too. No company or law firm surfaced using "Research Station" as
+a name.
+
+### Why "research" is the wrong word for a law practice
+
+In legal usage, **research is the commodity input.** Legal research is what
+associates do, what vendors sell by the hour, and increasingly what software
+does. A practice named Research points at the reading rather than the winning,
+and reads as a brief-writing shop or litigation-support outfit rather than
+counsel of record who stands up and argues. For a practice whose claim is *new
+law*, that is the wrong half of the work to put on the door.
+
+Practical strikes as well: `researchstation.com` is two words and fifteen
+characters, and bare **Station** is compromised in criminal law specifically —
+*stationhouse* is police vocabulary (stationhouse confession, stationhouse
+detention). The compound doesn't read that way, but the short form does.
+
+### The neighbors, checked
+
+- **`fieldstation.com` — taken.** Field Station is AutoCamp's outdoor lodging
+  brand (Moab, Joshua Tree), founded 2022. The better-sounding compound is now a
+  motel chain.
+- **outpost — taken in tech.** AWS Outposts is a major Amazon product line.
+- **listening post / listening station — avoid.** Muddied commercially ("listening
+  post" is customer-experience jargon; there is a 1977 broadcasting trademark),
+  and surveillance-coded: in a criminal practice you do not want to be the party
+  doing the listening.
+- **base camp — taken.** Basecamp is one of the better-known software brands.
+
+### The better executions of the same instinct
+
+**`observatory.law`** — same family, one word, and it *sees* rather than
+researches: an observatory produces observations nobody else was positioned to
+make. Still the strongest place-noun in this file, and still unclaimed in law.
+
+**`assay.law`** — the research-station idea compressed into a verb, and a verb
+about determining worth rather than merely reading. It keeps the patience and
+the instrumentation and drops the commodity connotation.
+
+(Unscreened curio in the same spirit: *winterover*, the Antarctic term for those
+who stay through the dark season. Evocative of exactly the right virtue,
+probably too obscure to explain twice a week.)
+
 ## Pick
 
 For the practice as now described — appeals, writs, and PDRs, sold on new law and
