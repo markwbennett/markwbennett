@@ -794,9 +794,70 @@ located — which is precisely the assertion that the best argument has been
 sitting in these cases for fifty years. It also strengthens **`assay.law`**: an
 assayer's job is testing material that others discarded as worthless.
 
+## Verdict on unsettled.law
+
+Yes. With one caveat and one structural note.
+
+### What it gets right
+
+**It passes the phone test, and nothing else on the shortlist does.** *Quaere*,
+*subsilentio*, *arguendo*, *inventio* all cost something at the moment a referring
+lawyer says the name aloud and someone has to type it. *Unsettled* costs nothing:
+every client, clerk and court reporter spells it correctly the first time. That
+is the test that killed Hephaestus, taxed quaere, and it is the single most
+underrated criterion in this whole document.
+
+**The name comes with its own argument.** "It is well settled that..." is the most
+common sentence in the State's brief, and it is almost always followed by a string
+cite and no analysis. A practice named **Unsettled** is a standing reply to that
+sentence. Very few names arrive carrying their own thesis.
+
+**It fits the corrected brief.** Not new questions — questions everyone believes
+are closed, closed wrongly.
+
+**`.law` does the work**, which is what the TLD exists for, and there is an
+availability advantage worth knowing: because `.law` is restricted to verified
+licensed lawyers and law firms, the squatter population is a small fraction of
+`.com`'s. A common English word is far likelier to be free in `.law` than in
+`.com`.
+
+**Screened clear in law.** The notable "Unsettled" brand is a coworking-retreat
+company running since 2016 — and it operates on `beunsettled.co`, not even on the
+matching string. Different sector entirely.
+
+### The caveat
+
+*Unsettled* has an ordinary meaning that is not flattering: unstable, anxious,
+disturbed. A client facing prison is already unsettled, and the name can be read
+as describing their condition rather than your service. Related: the word is a
+state, not an act. You mean *we unsettle*; it says *things are unsettled*. The
+"well settled" echo does most of the work of fixing that, but not all of it.
+
+### The structural note
+
+*Unsettled* is the marketing-accurate version; **sub silentio** is the
+technically-accurate one. Your claim is not that these questions are open — it is
+that they were closed without the argument ever being made, which is a specific
+doctrine with a specific consequence for the weight of precedent.
+
+That suggests using both rather than choosing. **Unsettled** is the practice: the
+name a client can spell, the reply to "it is well settled that." **Sub Silentio**
+is the lawyer-facing publication or the theory of the practice — the thing you
+write under, where the audience already knows what it means.
+
+### Rules check
+
+Clean, on the face of it. No promised outcome, no implied nonprofit or academic
+status, no implied group, no implied laboratory. Safer than most of this
+document. Still confirm with the Advertising Review Department before filing
+anything.
+
 ## Pick
 
-**`subsilentio.com`** — first choice. It names the doctrine, the defect, and the
+**`unsettled.law`** for the practice, **`subsilentio.com`** for the theory — see
+the verdict section above.
+
+**`subsilentio.com`** — the precise one. It names the doctrine, the defect, and the
 opening, and it is the only candidate in this document that is simultaneously the
 brand and the legal theory.
 
