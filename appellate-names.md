@@ -349,6 +349,54 @@ telescope — it pairs beautifully with *first impression*), `occultation`.
   stated purpose is surfacing overlooked pages. The metaphor is taken by someone
   already doing the analogous job.
 
+## The launch register — and why it mostly fails here
+
+Three problems, in increasing order of seriousness.
+
+**1. In law, "launchpad" already means startup incubator.** Procopio (San Diego)
+runs a LaunchPad incubator for early-stage companies; there is also Law.com
+Launchpad, Law Firm Launch Pad, and LPM LaunchPad. Inside the profession the word
+is taken, and it is taken by exactly the wrong meaning: helping new businesses
+get off the ground.
+
+**2. The apt half of the metaphor is already bought.** Appeals genuinely do go
+*up* — a PDR moves a case from the intermediate court to the apex court — so the
+altitude words should be the salvage. They aren't available:
+
+- `elevate.law` — held by Elevate, the large alternative legal services company
+  (founded 2011, Los Angeles). They own the exact domain.
+- `apogee.law` — held by Apogee Law, a boutique tech firm. Apogee Legal (contract
+  analytics, acquired by Seal Software) also exists.
+- `apex` — *apex court* is a genuine term for a court of last resort, but Apex is
+  one of the most commercialized words in business naming, including Apex Law Co.
+- `delta-v` — MIT's accelerator is named delta v, and Emerson's control system is
+  DeltaV. Accelerator connotations again.
+
+**3. The register promises the wrong virtue.** Rocketry words sell thrust, speed,
+and force. What an appellate practice actually sells is patience and precision —
+reading the record that nobody else finished reading, and noticing the thing in
+it. A client choosing appellate counsel is not shopping for acceleration. This is
+the same mismatch as the maker words, in the opposite direction: foundry names
+oversell manufacture, launch names oversell velocity, and neither says *found
+something*.
+
+### The one live candidate
+
+**gravity assist** — a spacecraft steals momentum from the mass it is trying to
+escape, and comes out faster and higher than it went in. That is exactly what a
+PDR does with an adverse court of appeals opinion: the loss below is the thing
+that propels the case up. Nothing surfaced using it as a company name in or out
+of law.
+
+Against it: two words, thirteen characters, and it needs explaining to anyone who
+isn't an orbital-mechanics person. `gravityassist.law` is worth a check, but it is
+a worse domain than `assay.law` for a better story.
+
+Also unscreened and still in the family: `escapevelocity` (MIT uses the phrase
+around its accelerator, but no company surfaced), `secondstage` (a PDR is
+literally the second stage — the first drops away once it has done its work),
+`upstream`.
+
 ## Pick
 
 For the practice as now described — appeals, writs, and PDRs, sold on new law and
