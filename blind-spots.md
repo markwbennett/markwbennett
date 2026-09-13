@@ -192,3 +192,64 @@ exposes citation relationships through its API `[verify current API coverage]`,
 which means in-degree and citing-depth for Texas cases can be computed rather than
 read. A script that ranks CCA cases by citations-received against length-of-
 original-discussion is a laundering detector, and it costs a weekend.
+
+---
+
+## Addendum: "the rules of the common law" — as of when?
+
+Three candidate answers. The sources point at the second.
+
+**What is known.** The gap-filler is not a 1965 innovation. It appears in the 1879
+Code as art. 27 ("When rules of common law shall govern"), the 1895 Code as art.
+26, the 1925 Code as art. 24 ("Common law governs"), and was renumbered 1.27 in
+1965; the search summaries say it has been a consistent feature since the original
+1856 Code `[verify the 1856 text — the State Law Library has the historical codes
+online]`. On the civil side, the reception statute has a settled construction:
+*Grigsby v. Reib*, 105 Tex. 597, 153 S.W. 1124 (1913) `[verify]` held the 1840
+Act does **not** adopt the common law as applied in England in 1840, but the
+English common law **as declared by the courts of the American states** — later
+refined as the body of common law *in 1840* as those courts declare it, applied so
+far as not inconsistent with Texas conditions. No CCA opinion construing art. 1.27
+surfaced by web search; the old article numbers (1879 art. 27, 1925 art. 24) are
+the keys for finding one in the annotated codes.
+
+**Reading A — the reception, 1840.** If "the common law" in art. 1.27 means what
+it means in the reception statute, the body is fixed at 1840, American, and
+adapted. Mostly fine for you, but *Hodge's Case* is English and 1838; the State
+would argue the reasonable-hypothesis rule had not yet become *American* common
+law by 1840. You would want pre-1840 American authority for the rule, not just
+Greenleaf (1846) and Starkie's 1869 American edition.
+
+**Reading B — the enactment, 1856.** The codifiers wrote "the rules of the common
+law" in 1856, into a state that had received the common law sixteen years earlier.
+Under *Boykin* the words carry their meaning at enactment, and five recodifications
+that recite no substantive change carry that meaning forward `[verify the 1965
+recodification act's no-substantive-change recital]`. This is the textualist
+answer and the best one for you: 1856 captures Hodge, Wills, Greenleaf and Starkie
+comfortably, it predates 1876, and it needs no constitutional-freeze theory. It is
+also the reading that gives the definite article its force — "**the** rules," a
+determinate body, not "such rules as courts may develop."
+
+**Reading C — dynamic.** The State's reading: "the common law" means the common
+law as it evolves, including the CCA's own decisions, so *Hankins* and the *Terry*
+adoption are simply the common law and art. 1.27 ratifies them. Three answers:
+(1) surplusage — under C the provision does no work, since courts fill procedural
+gaps by decision regardless, and a reading that leaves a statute idle is
+disfavored; (2) *Grigsby* rejected a present-day reading for the reception statute
+and anchored the body of law to a date; (3) Penal Code §1.03(a) abolishes
+common-law *offenses* — the Legislature excludes the common law when it means to,
+so its inclusion for *procedure* is deliberate, and a deliberate inclusion is not
+a blank cheque to the court that would be filling the gap anyway.
+
+**The State's better move, and the answer.** Rather than fight the date, the State
+will say art. 1.27 does not reach *Terry* at all: the Code does not "fail to
+provide" a rule — arts. 14.01–14.04 and 15.22 are the rules — and investigative
+detention is a constitutional-floor question, not Code procedure. The answer is
+the chain that makes the argument purely Texan: the federal floor *permits*, it
+does not *authorize*; authority for a seizure in Texas must come from Texas law;
+the Code authorizes arrest (15.22, binary) and nothing between arrest and
+liberty; art. 1.27 sends that silence to a common law with no such category; and
+**art. 38.23** excludes evidence obtained in violation of the laws of Texas
+`[verify text]`, so the detention falls under state exclusion regardless of what
+the Fourth Amendment tolerates. Four provisions, no constitutional theory
+required — and *Heitman* only as the reason the court is free to read them.
