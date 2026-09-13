@@ -98,7 +98,10 @@ off-center now that direct appeals and PDRs are in scope.
 ### Also clear, if flatter
 
 `appellatewright.com`, `brieffoundry.com`, `writfoundry.com`, `writsmith.com`,
-`coramworks.com`, `reversibleerror.com`.
+`writsmithy.com`, `coramworks.com`, `reversibleerror.com`.
+
+**Retracted:** `writforge.com`, suggested earlier. To forge is to counterfeit — a
+bad ambiguity in any criminal practice, and worse attached to "writ."
 
 ## Cut
 
@@ -203,6 +206,81 @@ use it, including inside the legal sector.
 
 `newground.law` (which doubles with "grounds for review"), `dicta.co` (today's
 dicta, tomorrow's holding), `suasponte.com`, `overrule.co`, `footnotefour.com`.
+
+## The place-noun question: foundry, forge, smithy, lab, studio
+
+### First, the thing worth knowing before picking one
+
+The place-noun is a crutch for a vague root. *Freedom* and *liberty* are
+abstractions, so `freedomlabs` and `libertyresearch` need "labs" and "research"
+to tell you a practice is being described. *Question presented*, *first
+impression*, and *grounds for review* are already concrete and already legal —
+bolting a place-noun onto them makes them worse. So the question is really: is
+the root doing the work, or is it not? If it is, skip the suffix entirely.
+
+### Two families of place, and they say opposite things
+
+**Places of manufacture** — foundry, forge, smithy, mill, press, works, shop.
+These promise *well-made*: output, craft, repetition. **Places of discovery** —
+lab, studio, observatory, atelier, institute. These promise *new*: something
+found or originated here. A practice sold on new law and unseen arguments wants
+the second family. Every maker word in this file is, on the stated positioning,
+slightly off-target however good it sounds.
+
+### The verdicts
+
+**Foundry — no.** At least four legal practices already use it, including
+`thefoundry.law` (a startup/privacy firm) sitting on the same TLD, plus Foundry
+Law Group (Seattle/KC), Foundry Legal (Denver), and The Law Foundry. Descriptive,
+hard to protect, and in tech it is Palantir's flagship platform.
+
+**Forge — no, and the worst of the three.** Six legal practices (Forge Legal,
+The Law Forge, Forge Law Group, Forge Legal Partners, forge.legal, Forge Legal
+Australia) plus SourceForge, Laravel Forge, Sound Forge, Forge Global. And the
+disqualifier is field-specific: **to forge is to counterfeit.** Fine for a
+business firm "forging futures"; not for a criminal practice, and least of all
+attached to "writ."
+
+**Smithy — open in law, with one catch.** No legal practice uses it; the closest
+is Smithey Law Group in Annapolis, a different spelling and a surname. A smithy
+is the workshop rather than the smith, which suits a boutique. The catch:
+**Smithy (smithy.io) is AWS's open-source IDL**, the toolchain behind the AWS
+SDKs — so to a technically literate reader, bare "Smithy" is an Amazon developer
+tool. That is worse than generic; it is a collision with a specific product.
+Compound it (`writsmithy.com`, screened clear) or skip it.
+
+**Lab — defensible here, but tired.** The forensic-laboratory misreading that
+rules it out for a post-conviction DNA practice is milder for appeals and PDRs.
+The real objection is that it is the single most worked suffix in legaltech and
+startup naming, and it was already the register of the seed examples. Nothing
+wrong with it; nothing distinguishing either.
+
+**Studio — best feel of the set, most occupied.** A studio makes one thing at a
+time, for one client, by hand, which is exactly appellate practice. Against it:
+Studio Legal LLP (New York, art and entertainment), Studio Legal (Australia,
+creative businesses), Studio Legal Rechtsanwälte (Berlin), Studio Legale LLC,
+STUDIO | LEGALE (Belgium) — and *studio legale* is simply Italian for "law
+firm," so the phrase is generic to anyone who knows the language. It also skews
+toward creative-industry clients, which is who those firms serve.
+
+**Atelier — in use, and precious.** Legal Atelier, Atelier Aftab, and Stanislex
+("Legal Atelier for Frontier Tech") are all trading. French formality is also an
+odd fit for Texas criminal appeals.
+
+**Observatory — the unexplored one, and the best fit for the positioning.** It
+is a place built to see what cannot otherwise be seen, which is the actual claim:
+you don't manufacture the issue, you spot it. Empty in law — the notable
+Observatory is an advertising agency (now part of Crispin). `observatory.law` is
+worth a check.
+
+**Skunk Works — do not.** SKUNK WORKS® is a registered Lockheed Martin trademark,
+and Lockheed has filed challenges against domain registrations using variations
+of it under anti-cybersquatting procedures.
+
+**Also considered and rejected:** *workshop* (reads as a seminar — CLE, not a
+firm), *mill* (implies churn), *press* (reads as a publisher), *bench* (the bench
+is the judiciary), *chambers* (Chambers & Partners owns it in legal), *institute*
+(implies academic or nonprofit).
 
 ## Pick
 
