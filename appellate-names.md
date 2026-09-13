@@ -671,18 +671,74 @@ name something else:
 
 Name the finding, not the flair.
 
+## The brief, finally stated
+
+> "What we are selling is the raw intelligence and curiosity that discovers the
+> arguments other lawyers will be making a decade from now."
+
+Three components, and the third is new. *Intelligence* and *curiosity* are the
+faculty (the trouble with naming those is above). **A decade from now** is not
+novelty — it is a claim about lead time, and law has its own vocabulary for that.
+
+### Quaere — the closest word in the language
+
+**Quaere** is legal Latin, from *quaerere*, "to seek." It was used in the
+summaries of reported cases to mark a point of law as doubtful, unsettled, and
+open to further question: *quaere whether...* A quaere is a question flagged now
+and answered years later.
+
+That is the brief in one word. It is curiosity (literally "inquire"), it is the
+open question, and it is the ten-year lead: the quaere in today's case note is
+the holding in somebody's brief a decade out. No company surfaced using it; the
+results are all law dictionaries.
+
+The cost is the phone test — the same test that killed Hephaestus, in a milder
+form. People who hear *quaere* will type *query*, *quare*, or *quere*. That is a
+real price, not a quibble, and it is the one thing weighing against it.
+
+### Percolation — the best temporal metaphor, in a compromised word
+
+Percolation is a genuine doctrine of cert practice: the Court lets an issue
+**percolate** through the lower courts so that the arguments are fully developed
+before it decides. Justice Ginsburg put it that when frontier legal problems are
+presented, periods of percolation and diverse opinions from state and federal
+appellate courts may yield a better-informed and more enduring pronouncement.
+
+An argument you plant now and that is decided in ten years has *percolated*. That
+is precisely the service described. But Percolate was an enterprise
+content-marketing company that raised over $100 million from Sequoia and
+Lightspeed before Seismic acquired it in 2019, so the word arrives carrying
+martech. The noun form `percolation` is clumsy as a name.
+
+### Checked and killed
+
+- **`headwaters.law` — taken.** Headwaters Law, a Pacific Northwest environmental
+  boutique and certified B Corp, is on that exact domain.
+- **bellwether** — a real term of art, but it belongs to civil mass-tort practice
+  (the representative MDL test case), not criminal appeals, and Bellwether Brands,
+  Bellwether Industries and Bellwether Collective are all trading.
+- **dissent** — the argument that loses now and wins later is exactly the ten-year
+  claim, but *Dissent* is a quarterly of politics and ideas founded in 1954 by
+  Irving Howe and Lewis Coser, and still publishing. The word is politically
+  coded before it is legally coded.
+
 ## Pick
 
-For the practice as now described — appeals, writs, and PDRs, sold on new law and
-unseen arguments — **firstimpression.law**, with **questionpresented.com** as the
-close second and **reviewworthy.com** if you want the name to point specifically
-at PDR practice.
+For the brief as now stated, two names, and they are the same idea in two
+languages:
 
-**writwright.com** remains the best *craft* name and is still worth holding, but
-it sells a well-made instrument. First impression sells the thing that actually
-distinguishes the practice: that the question has never been answered before, and
-you found it.
+**`questionpresented.com`** — the English version. The question, framed. It
+survives the phone test, it is a `.com`, every appellate lawyer knows the phrase,
+and framing the question is where a ten-year argument actually begins.
 
-Remember the omission from the section above: do not name the practice after the
-relief. *Review Granted* and its cousins are the one branding idea here that the
-not-misleading half of Rule 7.01 is squarely aimed at.
+**`quaere.law`** — the erudite version. Sharper, older, and exactly right about
+lead time: the point flagged as open today is the holding later. Pay the spelling
+tax only if you want the name to be a signal to other lawyers rather than to
+clients.
+
+Then, in order: **`inventio.law`** (arguments are found, not made),
+**`assay.law`** (what this record is actually worth), **`firstimpression.law`**
+(the question never decided here before).
+
+Everything else in this document is a container for those ideas, and the
+containers are all either taken, misleading, or selling the wrong virtue.
