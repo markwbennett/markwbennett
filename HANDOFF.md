@@ -45,8 +45,8 @@ search authority. Referring lawyers remember Mark Bennett, not a mark.
 - **Appellate / writ / PDR practice:** **Wrongly Decided** —
   `wronglydecided.com` or `.law`, living at a path on bennettandbennett.com. Buy
   a domain if wanted, but redirect it; do not run two sites.
-- **The writing:** **Opinion Laundering** (my own coinage — see open items), with
-  **Quaere** and **Bad Law** as alternates.
+- **The writing:** already branded — *Institute for Advanced Criminal Law
+  Studies*. **Opinion Laundering** is the concept, not the vehicle.
 - **Method word:** **tracing** — the money-laundering answer to laundering is to
   trace the asset back through the transfers to its unclean source. Same move as
   tracing a proposition back to the case that never held it.
@@ -118,42 +118,43 @@ search. Verify at a registrar.
   (Salesforce), Percolate (acquired by Seismic), Dissent (the magazine).
 - `writforge.com` — retracted: to forge is to counterfeit.
 
-## 7. Open items for a session with my writings
+## 7. Resolved by the manifesto (Making Law: Solving Old Problems, Aug. 3, 2026)
 
-1. **Define "opinion laundering" from the actual posts.** The prior session could
-   not reach my blog and found no definition by search; one search result offered
-   a definition about politicians laundering reputations via exoneration cases,
-   which looked synthesized rather than quoted and was **not** relied on. Get the
-   real definition and the canonical post, then re-test the whole positioning
-   against it. Working inference used so far: a proposition enters the reporters
-   without authority (dictum, an unbriefed assertion, a misreading, an unpublished
-   opinion), and each citation launders it — B cites A for what A never held, C
-   cites B, and fifty years later it is "well settled" with its origin
-   unrecoverable.
-2. **Distinguish it from "citation laundering,"** which is now in circulation for
-   AI-hallucinated cases passing through real filings (Daily Journal). Mine is
-   about *real* cases carrying propositions they never held. Without an explicit
-   distinction the term gets absorbed into the AI-slop discourse.
-3. **Per incuriam in Texas.** No Texas use surfaced in web search, but that is a
-   weak negative — run `"per incuriam"` full-text in TX-CS, or free on Google
-   Scholar (Case law → Texas). If it is genuinely absent, that is the finding.
-4. **Verify the stare decisis hook.** Search summaries attribute a three-factor
-   test to *Hammock v. State*, 46 S.W.3d 889, 892-93 (Tex. Crim. App. 2001) —
-   (1) the rule was flawed from the outset, (2) it conflicts with newer, more
-   soundly reasoned precedent, (3) it consistently produces unjust results or
-   burdens the system — with a heavier burden for statutory construction. The case
-   is real (May 23, 2001; reaffirmed *Garcia v. State*, 887 S.W.2d 862). **The pin
-   cite and factors were never read.** Confirm before use.
-5. **Queries that mechanically find the fifty-year gaps:**
-   `"assuming without deciding" /p <issue>`, `"we need not decide" /p <issue>`,
-   `"has never squarely"`, `"without the benefit of" /s brief!`,
-   `"flawed from the outset"`. Then a citator pass on the foundational case: the
-   tell is an original that decided the point in a sentence with no reasoning,
-   and everything since citing the original rather than reasoning independently.
-6. **Check domains at a registrar.** `.law` is restricted to verified licensed
-   lawyers and firms, which means far fewer squatters than `.com` — a common word
-   is likelier to be free there.
-7. **Call the State Bar Advertising Review Department** before anything is filed.
+The paper answers most of what was open. Key points, in my own words from it:
+
+- **Opinion laundering, defined:** a harmful proposition appears in one early case
+  — the **root case**. The next generation cites the root; the generation after
+  cites those. By the fourth generation forty-two cases appear to stand for the
+  proposition with extensive cross-support, and every new lawyer concludes the law
+  is settled. "The question is analyzed once, if at all, but with generations of
+  interlocking citations... the courts make it appear that the opinion has more
+  support than that one case." The root may have held something narrower, or been
+  about a different question, or been decided when everything was different.
+- **The cure is mine already:** "reversing the opinion-laundering process. Trace
+  the proposition back to its root. Read what the root case actually said. Figure
+  out why it doesn't apply to this situation, or why it was wrong then, or why
+  it's wrong now." I call the omission a failure to do "this archaeology."
+- **"Settled" means:** the CCA has rejected *this specific argument*, on facts
+  like these, after full briefing on the point.
+- **The intro line:** "The rule that has stood unchallenged for fifty years has
+  not been confirmed by fifty years of examination; it has been laundered by fifty
+  years of repetition."
+- **Existing institutional name:** *Institute for Advanced Criminal Law Studies*,
+  Houston — already in use as the byline for the scholarship.
+- **The strategy:** take your own idea seriously; find the path (years-long — Owens
+  came a dozen years after the 42.07 litigation began); write for textualist and
+  originalist judges. *Navarro* (Yeary, J., concurring, joined by Schenck, P.J.):
+  "less stare decisis and more recte decide."
+
+### What is still open
+
+1. **Domain availability** — never checked in that session. `.law` is restricted
+   to verified lawyers, so fewer squatters than `.com`.
+2. **Per incuriam in Texas** — still worth a full-text `"per incuriam"` run in
+   TX-CS. The manifesto's *Aguirre* discussion is the American statement of the
+   same idea: a court citing a case for a question that "was not before the
+   court."
+3. **State Bar Advertising Review** before anything client-facing is filed.
 
 ## 8. Standing caveats
 
