@@ -578,6 +578,60 @@ The root words can. `assay.law`, `questionpresented.com`, and
 `firstimpression.law` all read as the work of a serious thinker, and none of them
 claims to be a university, a charity, or a group.
 
+## Imagination — right idea, wrong word, and the word that fixes it
+
+This is the first suggestion in the thread that names the **faculty** rather than
+a container for it, which is the correct move. What you are selling is not a
+workshop or a station; it is a way of seeing a record. Three things are wrong
+with the word itself.
+
+**It is occupied.** `imagination.com` belongs to Imagination, a brand-experience
+agency fifty years old. Imagination Technologies is a British semiconductor
+company (PowerVR GPUs), founded 1985.
+
+**The phrase belongs to someone.** *The Legal Imagination* is James Boyd White's
+1973 book, generally credited with starting the law-and-literature movement, and
+still in print in a 45th-anniversary edition. In the corner of the profession
+most likely to appreciate the name, the phrase is his.
+
+**It hands the State a free line.** In judicial usage, *imaginative* and
+*creative* are frequently pejoratives — the adjective a court reaches for just
+before rejecting an argument. For a criminal appellate practice whose entire
+asset is credibility about what the record says, a name flirting with *made up*
+is a gift to the other side.
+
+### Inventio
+
+Classical rhetoric already has the word, and it is immune to that last problem.
+
+*Inventio* is the first of the five canons, from Latin **invenire, "to find."**
+The classical position is explicit: arguments are not fabricated from nothing but
+**discovered** — they exist already in the subject matter, the audience's beliefs,
+and the tradition, and invention is the systematic business of locating them.
+That is your positioning stated by Cicero's tradition, in a word that means
+*finding* rather than *inventing*. Its two tools are stasis theory (diagnosing
+exactly what kind of question is at issue) and the topoi.
+
+Caveat: **Inventio AG is Schindler's intellectual-property holding company**, a
+familiar name to anyone who has read Federal Circuit patent opinions (*Inventio
+AG v. Otis Elevator*, *Inventio AG v. ThyssenKrupp*). Different field, different
+TLD; `inventio.law` is worth checking.
+
+### Topos, and the end of the place-noun hunt
+
+Six rounds of looking for the right place-noun — foundry, lab, studio, station,
+institute — and rhetoric has had one all along. A **topos** (Latin *locus*) means
+literally *a place where arguments reside*. The topoi are the places you go to
+find the argument that is already there.
+
+That is the whole positioning in one classical term: not a workshop where briefs
+are manufactured, not an institute that studies the law, but the place where
+arguments are found.
+
+Caveats: Topica Edtech Group (Vietnam) is active and `topica.com` is likely long
+gone; *locus* and *topic* are ordinary English words carrying ordinary meanings.
+`topica.law` is unscreened and worth a look.
+
 ## Pick
 
 For the practice as now described — appeals, writs, and PDRs, sold on new law and
