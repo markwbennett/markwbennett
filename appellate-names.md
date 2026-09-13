@@ -973,7 +973,59 @@ condition of the law rather than the qualities of the lawyer. It is the exact
 anti-*Visionary* — it claims nothing about you at all, and lets the CCA record do
 the claiming.
 
+## Remaking law
+
+The best **verb** produced in this whole exercise, and it belongs in the tagline
+rather than on the door.
+
+### Why the verb is right
+
+*Making* new law was already rejected as the wrong theory: these are not
+first-impression questions. **Remaking** concedes the premise that matters — the
+law exists, it has been settled for decades, and it was settled wrong. It claims
+the overwrite rather than the blank page, which is exactly the described
+practice.
+
+It also solves the problem that killed Visionary and Leading. Those words assert
+a **quality** and a **rank**; "remaking law" asserts an **activity**, and an
+activity is substantiable by citation. Rule 7.02(a)(4) bars unsubstantiated
+comparison with other lawyers; it does not bar a factual account of what your
+cases did. A firm that has won on eight different legal issues in nine recent
+Court of Criminal Appeals cases can describe remaking law without comparing
+itself to anyone.
+
+One caution: keep it a statement about the practice's work, not a forecast for
+the reader's case. A client facing prison who reads it as a promise that *their*
+appeal will change Texas law has formed an unjustified expectation, which is the
+other half of the misleading standard.
+
+### Why it is weak as a name
+
+Gerund phrases make poor marks — *Remaking Law LLC* reads like a conference
+panel. And the phrase is partly spoken for in this profession: **Remaking Law
+Firms: Why and How** is a 2016 American Bar Association book by George Beaton and
+Imme Kaschner, with an accompanying site at `remakinglawfirms.com`. It is about
+law-firm business models rather than doctrine, but anyone in the legal-innovation
+world who hears "remaking law…" completes the phrase the wrong way.
+
+`remakelaw.com` and "Law Remade" turned up nothing, if a domain is wanted anyway.
+
+### Where it goes
+
+This completes the brand statement, and each piece does a different job:
+
+- **Unsettled** — the condition you attack. Claims nothing about you.
+- **Remaking the law** — what you do about it. An activity, not a rank.
+- **The CCA record** — eight issues in nine cases; dual board certification held
+  by fewer than fifty Texas criminal-defense lawyers. The proof, and the thing
+  that makes the second line sayable.
+
+State, act, evidence. That is a complete positioning, and it is what the last
+fifteen rounds of vocabulary were circling.
+
 ## Pick
+
+Tagline: **Unsettled — remaking the law other lawyers stopped questioning.**
 
 **`unsettled.law`** for the practice, **`subsilentio.com`** for the theory — see
 the verdict section above.
