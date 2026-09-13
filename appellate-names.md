@@ -1023,22 +1023,79 @@ This completes the brand statement, and each piece does a different job:
 State, act, evidence. That is a complete positioning, and it is what the last
 fifteen rounds of vocabulary were circling.
 
+## Correction: "settled but wrong," not "unsettled"
+
+`unsettled.law` was my pick for two rounds, and it mis-describes the practice.
+*Unsettled* asserts the question is **open**. The claim is the opposite: the
+question is closed, closed long ago, and closed wrong. I flagged the weakness in
+passing — "unsettled is a state, not an act" — and then kept recommending the
+name anyway. It only works in the transitive reading (*we unsettle it*), and the
+passive reading is the one a reader takes first.
+
+Worth noting that "settled" is itself a documented concept with a fifty-year
+resonance: settled law can mean a precedent left undisturbed for more than fifty
+years, entrenched by stare decisis, or simply widely accepted — none of which
+means correct.
+
+### Wrongly decided — the phrase the profession actually uses
+
+**Wrongly decided** is the standing phrase for a precedent that is settled and
+wrong. It is also the threshold your practice operates at: overruling precedent
+demands a special justification *over and above* the belief that the case was
+wrongly decided, which means the phrase names both what you assert and the
+obstacle you have to clear.
+
+Three things recommend it over everything else in this document:
+
+1. **It is advocate-side.** *Sub silentio* and *per incuriam* — the doctrinal
+   labels for a decision made without the argument, or through lack of care —
+   both describe the **court's** act, and fail the test you applied. "Wrongly
+   decided" is *your* assertion about the case. Nobody else's conduct is in the
+   name.
+2. **It means the same thing to both audiences.** To a convicted client it is
+   the plain truth about their own case. To an appellate judge it is a
+   doctrinal proposition with a known standard attached. Very few names work at
+   both levels without translation.
+3. **It passes the phone test** — nobody misspells it.
+
+Against: fifteen characters, and it is pugnacious. That is a feature if the
+audience is the CCA and the referring bar.
+
+`wronglydecided.com` / `wronglydecided.law` — no occupant surfaced; the nearest
+hits are law-review articles using the phrase and unrelated precedent podcasts.
+
+### Bad law — the short version
+
+In every citator, a case that has been overruled is **bad law**, and a red flag
+means the case is no longer good for at least one point. "Is it still good law?"
+is a question every lawyer asks weekly. Six letters, punchy, unmistakably legal,
+no brand found on `badlaw.com`.
+
+Against: to a layperson "Bad Law" reads as bad lawyering, or as a political
+complaint about unjust statutes. Better as the name of the writing than of the
+practice.
+
+### Settled error — the coinage
+
+`settlederror.com` — no occupant, and the oxymoron is exactly the claim: the
+error everyone has agreed to stop examining. But it is not a term of art, so it
+gets none of the recognition "wrongly decided" and "bad law" carry for free.
+
 ## Pick
 
-Tagline: **Unsettled — remaking the law other lawyers stopped questioning.**
+**Practice:** `wronglydecided.com` (or `.law`), at a path on
+bennettandbennett.com. It states the claim, in the profession's own words, from
+the advocate's side.
 
-**`unsettled.law`** for the practice, **`subsilentio.com`** for the theory — see
-the verdict section above.
+**Writing:** **Bad Law**, or **Quaere** if you want the quieter one.
 
-**`subsilentio.com`** — the precise one. It names the doctrine, the defect, and the
-opening, and it is the only candidate in this document that is simultaneously the
-brand and the legal theory.
+**Tagline:** *Settled is not the same as right.*
+Alternates: *It is well settled. That does not make it correct.* /
+*Fifty years of citations, and nobody ever made the argument.*
 
-**`arguendo.law`** — same idea, shorter, better phone test, slightly narrower.
+**Firm:** Bennett & Bennett. Unchanged, for the reasons in the brand-architecture
+section.
 
-Then: **`inventio.law`** (the argument was always there), **`quaere.law`** (the
-question flagged open and answered a decade later), **`assay.law`** (what this
-record is actually worth), **`questionpresented.com`** (the `.com`, and the
-plainest).
-
-Retired: `firstimpression.law` — wrong theory of the practice.
+Retired: `unsettled.law` (wrong description), `firstimpression.law` (wrong
+theory), `subsilentio` and `arguendo` (the court's act, not yours), everything
+claiming a quality or a rank (Visionary, Leading).
