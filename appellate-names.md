@@ -722,23 +722,89 @@ martech. The noun form `percolation` is clumsy as a name.
   Irving Howe and Lewis Coser, and still publishing. The word is politically
   coded before it is legally coded.
 
+## Not first impression — wrongly settled
+
+> "They aren't mere first-impression issues, but issues that other lawyers have
+> missed the best arguments on for 50 years."
+
+This retires `firstimpression.law`, which led the list two rounds ago. A case of
+first impression is a question never decided here before. What is described is
+the opposite: questions decided many times, by courts that were never given the
+argument. Different thing, different word — and the right word is a doctrine
+rather than a metaphor.
+
+### Sub silentio — the doctrine that makes the practice possible
+
+A decision passes **sub silentio** ("under silence") when the point of law
+involved was not perceived by the court or present to its mind. The consequence
+is the part that matters: a decision binds only where the judgment directly
+raises, discusses, and considers the question. Precedents passing sub silentio
+carry little or no authority, because they involved no conscious consideration or
+argument on the point.
+
+That is not an evocative parallel to the business. It **is** the business. Fifty
+years of courts deciding an issue that nobody briefed properly produces a wall of
+citations that looks solid and is not, because none of those decisions ever
+confronted the argument. Naming the practice *Sub Silentio* names both the defect
+you hunt and the reason it can still be attacked.
+
+`subsilentio.com` and `subsilentio.law` — nothing surfaced using either. Twelve
+letters, but phonetically regular, which is more than *quaere* can claim.
+
+### Arguendo — the same idea, shorter
+
+When a court writes *assuming arguendo*, it is declining to decide the point
+while disposing of the case — and those statements are dicta, guiding later
+courts without binding them. Every "assuming arguendo" in a fifty-year line of
+cases is a point the courts have stepped over rather than resolved. That is a map
+of exactly the gaps described.
+
+Eight letters, clean pronunciation, unmistakably legal, no company found.
+`arguendo.law`.
+
+### Unsettled — the plain-English version
+
+`unsettled.law` turned up no occupant, and *unsettled question* is ordinary legal
+vocabulary. It says the same thing in a word a client can spell after hearing it
+once. It reads slightly more negative than the Latin options ("unsettled" as in
+unstable), which is the tradeoff.
+
+### Urtext — the best metaphor for the fifty years
+
+An **urtext** is the original form of a text before editorial accretion; an urtext
+edition of a score reproduces what the composer actually wrote, stripped of a
+century of editors' additions. The legal parallel is exact: the line of cases has
+been copied from copies, and what everyone now cites is an editor's gloss rather
+than what the source actually held. `urtext.law` is probably free (Urtext Films
+exists; no legal use surfaced), though the word explains itself to roughly nobody.
+
+### Checked and dead
+
+- **anomaly** — Anomaly is a major global advertising agency (Adweek's 2022 US
+  Agency of the Year) at `anomaly.com`.
+- **palimpsest** — no occupant found, and the metaphor is right (the earlier text
+  is still recoverable under the overwriting), but it fails the phone test worse
+  than quaere.
+
+### What this does to the rest of the list
+
+It strengthens **`inventio.law`** considerably. The classical claim is that
+arguments are not fabricated but already present in the material, waiting to be
+located — which is precisely the assertion that the best argument has been
+sitting in these cases for fifty years. It also strengthens **`assay.law`**: an
+assayer's job is testing material that others discarded as worthless.
+
 ## Pick
 
-For the brief as now stated, two names, and they are the same idea in two
-languages:
+**`subsilentio.com`** — first choice. It names the doctrine, the defect, and the
+opening, and it is the only candidate in this document that is simultaneously the
+brand and the legal theory.
 
-**`questionpresented.com`** — the English version. The question, framed. It
-survives the phone test, it is a `.com`, every appellate lawyer knows the phrase,
-and framing the question is where a ten-year argument actually begins.
+**`arguendo.law`** — same idea, shorter, better phone test, slightly narrower.
 
-**`quaere.law`** — the erudite version. Sharper, older, and exactly right about
-lead time: the point flagged as open today is the holding later. Pay the spelling
-tax only if you want the name to be a signal to other lawyers rather than to
-clients.
+Then: **`inventio.law`** (the argument was always there), **`quaere.law`** (the
+question flagged open and answered a decade later), **`assay.law`** (what this
+record is actually worth), **`questionpresented.com`** (the `.com`, and the
+plainest).
 
-Then, in order: **`inventio.law`** (arguments are found, not made),
-**`assay.law`** (what this record is actually worth), **`firstimpression.law`**
-(the question never decided here before).
-
-Everything else in this document is a container for those ideas, and the
-containers are all either taken, misleading, or selling the wrong virtue.
+Retired: `firstimpression.law` — wrong theory of the practice.
