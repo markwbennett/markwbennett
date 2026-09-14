@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colours come from Material 3 in Compose; this is only what the window needs
+         before the first frame. -->
+    <style name="Theme.LocationFacts" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
